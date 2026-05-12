@@ -32,6 +32,8 @@ jobs:
           - 10
           - 11
           - 12
+          - 13
+          - 14
         category:
           # Runs the base test environment
           - py
